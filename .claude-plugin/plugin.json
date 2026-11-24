@@ -1,0 +1,1 @@
+{ "name": "plugin-usage", "version": "0.1.0", "description": "설치된 플러그인별 사용 횟수를 대화 기록에서 세고, 안 쓴 플러그인을 삭제 후보로 보여줘요 (/plugin-usage [일수])" }

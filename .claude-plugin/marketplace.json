@@ -1,0 +1,5 @@
+{
+  "name": "plugin-usage",
+  "owner": { "name": "qkdrml11" },
+  "plugins": [{ "name": "plugin-usage", "source": "./" }]
+}
